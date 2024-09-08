@@ -5,9 +5,9 @@ This repository provides a structured 15-week study plan designed for profession
 
 ## Course Structure
 ### Chapter 1. Weeks 1-3: Python & Statistics Foundation
-1.1 Python Basics: Learn fundamental programming concepts like variables, data types, control flow, loops, and functions (week 1)<br>
-<br>1.2 Data Structures: Introduction to Python data structures including lists, tuples, dictionaries, and sets (week 1)<br>
-<br>1.3 Introduction to Libraries: Explore popular data manipulation libraries such as NumPy and Pandas (week 1)<br>
+1.1 Python Basics: Learn fundamental programming concepts like variables, data types, control flow, loops, and functions ([week 1](https://github.com/fyuan1014/Transition_to_DataScience_from_NonTech/tree/main/week_1))<br>
+<br>1.2 Data Structures: Introduction to Python data structures including lists, tuples, dictionaries, and sets ([week 1](https://github.com/fyuan1014/Transition_to_DataScience_from_NonTech/tree/main/week_1))<br>
+<br>1.3 Introduction to Libraries: Explore popular data manipulation libraries such as NumPy and Pandas ([week 1](https://github.com/fyuan1014/Transition_to_DataScience_from_NonTech/tree/main/week_1))<br>
 <br>1.4 Statistics: Understand descriptive statistics (mean, median, variance) and build foundational knowledge of probability and distributions <br>
 <br>1.5 Data Visualization: Introduction to Matplotlib and Seaborn<br>
 <br>1.6 Practice: 
