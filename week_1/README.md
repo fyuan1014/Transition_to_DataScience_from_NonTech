@@ -9,19 +9,19 @@ This course is part of a 15-week structured plan designed to help individuals fr
 ### 1. Installation of Anaconda
 Anaconda is a widely used distribution of Python, tailored for data science, machine learning, and scientific computing. It simplifies the process of installing necessary packages and managing environments. Anaconda comes with pre-installed tools like Jupyter Notebook, which we’ll be using for interactive coding exercises. <br>
 <br>Here are steps for installing Anaconda:<br>
-1. Visit the official Anaconda website (https://www.anaconda.com/download/success) and download the version that matches your operating system;
+1. Visit the official [Anaconda website](https://www.anaconda.com/download/success) and download the version that matches your operating system;
 2. Follow the installation prompts to complete the setup using default settings;
 3. Once installed, launch Jupyter Notebook through Anaconda Navigator or via the command line by typing jupyter notebook. <br>
 
 ### 2. Python Basics & Data Structures
-In Week 1, we’ll also revisit the basic Python concepts that I previously covered in the Python for Absolute Beginners (https://github.com/fyuan1014/Pyhton4AbsoluteBeginners_Tutorial) repository. This tutorial covers core Python topics such as: Variables and Data Types, Control Flow (if-else statements, loops), Functions and Data Structures (lists, tuples, dictionaries, and sets).
+In Week 1, we’ll also revisit the basic Python concepts that I previously covered in the [Python for Absolute Beginners](https://github.com/fyuan1014/Pyhton4AbsoluteBeginners_Tutorial) repository. This tutorial covers core Python topics such as: Variables and Data Types, Control Flow (if-else statements, loops), Functions and Data Structures (lists, tuples, dictionaries, and sets).
 
-<br>For your convenience to play with the code, I have adjusted that into a Jupyter Notebook file in this folder (i.e., week_1).
+<br>For your convenience to play with the code, I have adjusted that into a Jupyter Notebook file in this folder ([Python Basics & Data Structures](https://github.com/fyuan1014/Transition_to_DataScience_from_NonTech/blob/main/week_1/week_1_python_basic_data_structure.ipynb)).
 
 ### 3. Introduction of pandas and NumPy
 Both pandas and NumPy are indispensable for data science, especially for individuals transitioning from non-tech backgrounds. These libraries form the foundation for data manipulation and numerical analysis and serve as the building blocks for advanced data science tools like scikit-learn for machine learning, Matplotlib for visualization, and TensorFlow for deep learning. Mastery of these two libraries will empower you to tackle more complex data science tasks in the future.<br>
 #### 3.1 pandas
-pandas is a powerful library for data manipulation, cleaning, and analysis. It simplifies handling structured data (e.g., tables or Excel-like data) through its intuitive Series and DataFrame objects. Whether you're dealing with missing data, large datasets, or complex transformations, pandas makes these tasks far easier. In this notebook, you’ll learn how to:<br>
+pandas is a powerful library for data manipulation, cleaning, and analysis. It simplifies handling structured data (e.g., tables or Excel-like data) through its intuitive Series and DataFrame objects. Whether you're dealing with missing data, large datasets, or complex transformations, pandas makes these tasks far easier. In this [notebook](https://github.com/fyuan1014/Transition_to_DataScience_from_NonTech/blob/main/week_1/week_1_pandas_numpy.ipynb), you’ll learn how to:<br>
 1. Install pandas (!pip install pandas) in your Jupyter Notebook (After the installation, you may need to restart your kernel to use it)
 2. Import pandas (import pandas as pd)
 3. Work with Series and DataFrames for organizing and analyzing data
@@ -30,7 +30,7 @@ pandas is a powerful library for data manipulation, cleaning, and analysis. It s
 Figure 1. Screenshot of pandas installation and kernel restart<br>
 
 #### 3.2 NumPy
-NumPy is the core library for efficient numerical computing in Python. It provides fast and flexible arrays that are essential for many data science tasks, including machine learning and AI. NumPy enables operations on arrays without the need for loops, making it particularly useful for processing large datasets such as training a depp neural network. You’ll learn how to:<br>
+NumPy is the core library for efficient numerical computing in Python. It provides fast and flexible arrays that are essential for many data science tasks, including machine learning and AI. NumPy enables operations on arrays without the need for loops, making it particularly useful for processing large datasets such as training a depp neural network. In this [notebook](https://github.com/fyuan1014/Transition_to_DataScience_from_NonTech/blob/main/week_1/week_1_pandas_numpy.ipynb), you’ll learn how to:<br>
 1. Install NumPy (!pip install numpy)
 2. Import NumPy (import numpy as np)
 3. Create and manipulate 1D and 2D arrays
